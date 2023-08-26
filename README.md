@@ -86,8 +86,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     	- [x] [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [x] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+        - [x] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
@@ -116,7 +116,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Linked Lists
     - [ ] Description:
-    	- [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
+    	- [x] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
         - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
