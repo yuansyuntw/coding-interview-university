@@ -449,20 +449,22 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
-    - [x] DFS with adjacency list (recursive)
-    - [x] **DFS with adjacency list (iterative with stack)**
-    - [X] DFS with adjacency matrix (recursive)
-    - [x] **DFS with adjacency matrix (iterative with stack)**
-    - [x] BFS with adjacency list
-    - [x] BFS with adjacency matrix
-    - [x] **single-source shortest path (Dijkstra)**
-    - [x] **minimum spanning tree**
+    - [x] [DFS with adjacency list (recursive)](src/Grpahs-DFSWithAdjacencyList(Recursive).py)
+    - [x] [DFS with adjacency list (iterative with stack)](src/Graphs-DFSWithAdjacencyList(IterativeWithStack).py)
+    - [X] [DFS with adjacency matrix (recursive)](src/Graphs-DFSWithAdjacencyMatrix(Recursive).py)
+    - [x] [DFS with adjacency matrix (iterative with stack)](src/Graphs-DFSWithAdjacencyMatrix(IterativeWithStack).py)
+    - [x] [BFS with adjacency list](src/Graphs-BFSWithAdjacencyList.py)
+    - [x] [BFS with adjacency matrix](src/Graphs-BFSWithAdjacencyMatrix.py)
+    - [x] [single-source shortest path (Dijkstra)](src/Graphs-Single-SourceShortestPath(Dijkstra).py)
+    - [x] [minimum spanning tree(Prim)](src/Graphs-MinimumSpanningTree.py)
+    - [x] [minimum spanning tree(Kruskal)](src/Graphs-MinimumSpanningTree(Kruskal).py)
+    - [x] [union-find](src/Graphs-UnionFind.py)
     - DFS-based algorithms (see Aduni videos above):
         - [x] check for a cycle (needed for topological sort, since we'll check for the cycle before starting)
-        - [x] topological sort
-        - [x] count connected components in a graph
+        - [x] [topological sort](src/Graphs-TopologicalSort.py)
+        - [x] [count connected components in a graph](src/Graphs-CountConnectedComponentsInAGraph.py)
         - [x] list strongly connected components
-        - [x] check for bipartite graph
+        - [x] [check for bipartite graph](src/Graphs-CheckForBipartiteGraph.py)
 
 ## Even More Knowledge
 
