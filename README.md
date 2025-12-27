@@ -50,6 +50,15 @@
     - [Networking](#networking)
 - [Final Review](#final-review)
 
+### Getting the Job
+
+- [Update Your Resume](#update-your-resume)
+- [Find a Job](#find-a-job)
+- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [Once You've Got The Job](#once-youve-got-the-job)
+
 ## Let's Get Started
 
 Alright, enough talk, let's learn!
@@ -79,6 +88,8 @@ Well, that's about enough of that.
 
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Data Structures
 
@@ -202,6 +213,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - get(key)
         - remove(key)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## More Knowledge
 
 - ### Binary search
@@ -240,6 +253,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Swap](https://bits.stephan-brumme.com/swap.html)
     - [x] Absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Trees
 
@@ -303,7 +318,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
     - [x] [Heap Sort (video)](https://www.coursera.org/lecture/data-structures/heap-sort-hSzMO)
     - [x] [Building a heap (video)](https://www.coursera.org/lecture/data-structures/building-a-heap-dwrOS)
-    - [x] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [ ] [MIT 6.006 Introduction to Algorithms: Binary Heaps](https://www.youtube.com/watch?v=Xnpo1atN-Iw&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=12)
     - [x] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
     - [x] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [x] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
@@ -318,6 +333,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] remove(x) - removes item at index x
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in place using a max heap or min heap
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Sorting
 
@@ -403,6 +420,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
 As a summary, here is a visual representation of [15 sorting algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg).
 If you need more detail on this subject, see the "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Graphs
 
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting.
@@ -465,6 +484,8 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [x] [count connected components in a graph](src/Graphs-CountConnectedComponentsInAGraph.py)
         - [x] list strongly connected components
         - [x] [check for bipartite graph](src/Graphs-CheckForBipartiteGraph.py)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Even More Knowledge
 
@@ -697,6 +718,8 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ---
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Final Review
 
     This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
@@ -712,6 +735,8 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ---
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Update Your Resume
 
 - See Resume prep information in the books: "Cracking The Coding Interview" and "Programming Interviews Exposed"
@@ -719,6 +744,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Note by the author: "This is for a US-focused resume. CVs for India and other countries have different expectations, although many of the points will be the same."
 - ["Step-by-step resume guide" by Tech Interview Handbook](https://www.techinterviewhandbook.org/resume/guide)
     - Detailed guide on how to set up your resume from scratch, write effective resume content, optimize it, and test your resume
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Interview Process & General Interview Prep
 
@@ -753,6 +780,8 @@ Mock Interviews:
 - [Hello Interview: Mock Interviews with Expert Coaches and AI](https://www.hellointerview.com/?utm_source=ciu) - interview directly with AI or with FAANG staff engineers and managers.
 - [Codemia: Practice system design problems with AI or community solutions and feedback](https://codemia.io/?utm_source=ciu) - Practice system design problems via AI practice tool. Share your solution with the community to get human feedback as well.
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Be thinking of for when the interview comes
 
 Think of about 20 interview questions you'll get, along with the lines of the items below. Have at least one answer for each.
@@ -771,6 +800,8 @@ Have a story, not just data, about something you accomplished.
 - What did you learn at [job x / project y]?
 - What would you have done better at [job x / project y]?
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Have questions for the interviewer
 
 Some of mine (I already may know the answers, but want their opinion or team perspective):
@@ -785,6 +816,8 @@ Some of mine (I already may know the answers, but want their opinion or team per
 - What do you like about it?
 - What is the work life like?
 - How is the work/life balance?
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Once You've Got The Job
 
@@ -807,6 +840,8 @@ You're never really done.
     *****************************************************************************************************
 
 ---
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Additional Books
 
@@ -861,6 +896,8 @@ You're never really done.
     - AKA CLR, sometimes CLRS, because Stein was late to the game
 - [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
     - For a richer, more up-to-date (2017), but longer treatment
+
+**[⬆ back to top](#table-of-contents)**
 
 ## System Design, Scalability, Data Handling
 
@@ -974,6 +1011,8 @@ You're never really done.
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://web.archive.org/web/20220217064329/https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Additional Learning
 
     I added them to help you become a well-rounded software engineer and to be aware of certain
@@ -1007,7 +1046,7 @@ You're never really done.
 	- [The Absolute Beginner's Guide to Emacs (video by David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
 	- [The Absolute Beginner's Guide to Emacs (notes by David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginners-guide-to-emacs/)
 
-- ### Unix command line tools
+- ### Unix/Linux command line tools
     - I filled in the list below from good tools.
     - bash
     - cat
@@ -1020,6 +1059,10 @@ You're never really done.
     - uniq
     - [strace](https://en.wikipedia.org/wiki/Strace)
     - [tcpdump](https://danielmiessler.com/study/tcpdump/)
+    - [Essential Linux Commands Tutorial](https://labex.io/tutorials/practice-linux-commands-hands-on-labs-398420)
+
+- ### DevOps
+    - [DevOps Roadmap](https://roadmap.sh/devops)
 
 - ### Information theory (videos)
     - [Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
@@ -1282,6 +1325,8 @@ You're never really done.
 
 ---
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Additional Detail on Some Subjects
 
     I added these to reinforce some ideas already presented above, but didn't want to include them
@@ -1368,6 +1413,8 @@ You're never really done.
 
 - NAND To Tetris: [Build a Modern Computer from First Principles](https://www.coursera.org/learn/build-a-computer)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Video Series
 
 Sit back and enjoy.
@@ -1423,15 +1470,20 @@ Sit back and enjoy.
 
 - [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Computer Science Courses
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Algorithms implementation
 
 - [Multiple Algorithms implementation by Princeton University](https://algs4.cs.princeton.edu/code)
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Papers
 
@@ -1457,6 +1509,8 @@ Sit back and enjoy.
 - [2015: High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf)
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - More papers: [1,000 papers](https://github.com/0voice/computer_expert_paper)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## LICENSE
 
