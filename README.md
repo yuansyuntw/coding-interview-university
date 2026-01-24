@@ -976,7 +976,7 @@ You're never really done.
     - [x] [Salesforce Architecture - How They Handle 1.3 Billion Transactions A Day](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html)
     - [x] [ESPN's Architecture At Scale - Operating At 100,000 Duh Nuh Nuhs Per Second](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
     - [ ] See "Messaging, Serialization, and Queueing Systems" way below for info on some of the technologies that can glue services together
-    - [ ] Twitter:
+    - [x] Twitter:
         - [O'Reilly MySQL CE 2011: Jeremy Cole, "Big and Small Data at @Twitter" (video)](https://www.youtube.com/watch?v=5cKTP36HVgI)
         - [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
     - For even more, see the "Mining Massive Datasets" video series in the [Video Series](#video-series) section
