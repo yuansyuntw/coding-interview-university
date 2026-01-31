@@ -932,8 +932,8 @@ You're never really done.
 - [x] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 - [x] [MIT 6.824: Distributed Systems, Spring 2020 (20 videos)](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - [ ] Consensus Algorithms:
-    - [ ] Paxos - [Paxos Agreement - Computerphile (video)](https://www.youtube.com/watch?v=s8JqcZtvnsM)
-    - [ ] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
+    - [x] Paxos - [Paxos Agreement - Computerphile (video)](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+    - [x] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
         - [ ] [Easy-to-read paper](https://raft.github.io/)
         - [ ] [Infographic](http://thesecretlivesofdata.com/raft/)
 - [x] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
